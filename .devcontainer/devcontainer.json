@@ -1,5 +1,5 @@
 {
-"image": "ghcr.io/open-telemetry/opentelemetry-php/opentelemetry-php-base:latest",
+"image": "ghcr.io/open-telemetry/opentelemetry-php/opentelemetry-php-base",
       "overrideCommand": true,
     "runArgs": [
         "--cap-add=SYS_PTRACE",
